@@ -1,0 +1,9 @@
+a=10
+b=5
+c=2
+x=a//10
+print(x)
+y=b*50
+print(y)
+z=c+60
+print(z)
